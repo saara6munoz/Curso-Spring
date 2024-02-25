@@ -3,8 +3,6 @@ package com.platzi.market.persistence.entity;
 import jakarta.persistence.*;
 
 import java.time.LocalDateTime;
-
-
 @Entity
 @Table(name = "compras")
 public class Compra {
